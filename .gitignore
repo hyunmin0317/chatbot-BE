@@ -18,9 +18,6 @@ dist/
 download/
 eggs/
 .eggs/
-*/.env
-.env
-.env*
 
 # PyInstaller
 *.manifest
@@ -30,7 +27,6 @@ eggs/
 .idea/
 
 # Environments
-.env
 .venv
 env/
 venv/
