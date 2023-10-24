@@ -24,5 +24,4 @@ tqdm==4.47.0
 typing-extensions==3.7.4.2
 urllib3==1.25.9
 gunicorn==20.0.4
-drf_yasg==1.17.0
 psycopg2-binary==2.9.3

@@ -25,7 +25,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '(o)$^apjv$^kml25etux0-0l0e!c)uqdr1x9_
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = int(os.environ.get('DEBUG', 1))
 
-ALLOWED_HOSTS = os.environ.get('DJANGO_ALLOWED_HOSTS', 'localhost 127.0.0.1').split(' ')
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
-    'drf_yasg',
     'api',
 ]
 
@@ -128,8 +127,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 LOGIN_URL = '/admin/login'
 
 # CORS 허용 도메인
-CORS_ORIGIN_WHITELIST = [
-    'http://127.0.0.1', 'http://127.0.0.1:8080',
-    'http://localhost', 'http://localhost:8080', 'http://localhost:63342', 'http://localhost:63343',
-    'http://48.2.1.92:20009', 'http://12.42.34.55:8080'
-]
+CORS_ORIGIN_WHITELIST = ['*']
