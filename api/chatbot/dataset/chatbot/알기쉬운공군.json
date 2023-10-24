@@ -1,0 +1,965 @@
+{
+	"대한민국 공군에 대해서 알고 싶어요.": {
+		"question": "대한민국 공군에 대해서 알고 싶어요.",
+		"answer": "공군에 대한 다양한 이야기는 공군 홈페이지 \"알기쉬운공군\"에서 확인하실 수 있습니다. 아래 링크를 참고하여 공군 홈페이지의 자료실에서 알기쉬운공군 관련 정보를 찾아보세요.",
+		"index": 136,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/airforce/454/subview.do",
+		"image": "",
+		"query": [
+			"대한민국 공군에 대해서 알고 싶어요.",
+			"대한민국 공군의 다양한 이야기가 궁금해요."
+		],
+		"classification": "알기쉬운 공군/대한민국 공군에 대해서 알고 싶어요."
+	},
+	"독립군에도 공군이 있었다?": {
+		"question": "독립군에도 공군이 있었다?",
+		"answer": "알기쉬운 공군 1번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 137,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q01.pdf",
+		"image": "",
+		"query": [
+			"독립군에도 공군이 있었다?"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/독립군에도 공군이 있었다?"
+	},
+	"대한민국 공군은 언제 만들어졌나요?": {
+		"question": "대한민국 공군은 언제 만들어졌나요?",
+		"answer": "알기쉬운 공군 2번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 138,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q02.pdf",
+		"image": "",
+		"query": [
+			"대한민국 공군은 언제 만들어졌나요?"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/대한민국 공군은 언제 만들어졌나요?"
+	},
+	"항공전략사상이란?": {
+		"question": "항공전략사상이란?",
+		"answer": "알기쉬운  공군 3번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 139,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q03.pdf",
+		"image": "",
+		"query": [
+			"항공전략사상이란?"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/항공전략사상이란?"
+	},
+	"6.25 전쟁 시 활약했던 조종사들도 있나요?": {
+		"question": "6.25 전쟁 시 활약했던 조종사들도 있나요?",
+		"answer": "알기쉬운 공군 4번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 140,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q04.pdf",
+		"image": "",
+		"query": [
+			"6.25 전쟁 시 활약했던 조종사들도 있나요?"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/6.25 전쟁 시 활약했던 조종사들도 있나요?"
+	},
+	"창공구락부가 무엇인가요?": {
+		"question": "창공구락부가 무엇인가요?",
+		"answer": "알기쉬운 공군 5번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 141,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q05.pdf",
+		"image": "",
+		"query": [
+			"창공구락부가 무엇인가요?"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/창공구락부가 무엇인가요?"
+	},
+	"우리나라 최초의 비행기 비차(飛車)와 부활(俯活)호": {
+		"question": "우리나라 최초의 비행기 비차(飛車)와 부활(俯活)호",
+		"answer": "알기쉬운 공군 6번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 142,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q06.pdf",
+		"image": "",
+		"query": [
+			"우리나라 최초의 비행기 비차(飛車)와 부활(俯活)호"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/우리나라 최초의 비행기 비차(飛車)와 부활(俯活)호"
+	},
+	"대한민국 공군 최초의 여성 조종사는 누구?": {
+		"question": "대한민국 공군 최초의 여성 조종사는 누구?",
+		"answer": "알기쉬운 공군 7번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 143,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q07.pdf",
+		"image": "",
+		"query": [
+			"대한민국 공군 최초의 여성 조종사는 누구?"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/대한민국 공군 최초의 여성 조종사는 누구?"
+	},
+	"공군도 해외 파병부대가 있나요?": {
+		"question": "공군도 해외 파병부대가 있나요?",
+		"answer": "알기쉬운 공군 8번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 144,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q08.pdf",
+		"image": "",
+		"query": [
+			"공군도 해외 파병부대가 있나요?"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/공군도 해외 파병부대가 있나요?"
+	},
+	"공군 부대 마크에 숨겨진 비밀!": {
+		"question": "공군 부대 마크에 숨겨진 비밀!",
+		"answer": "알기쉬운 공군 9번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 145,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q09.pdf",
+		"image": "",
+		"query": [
+			"공군 부대 마크에 숨겨진 비밀!"
+		],
+		"classification": "알기쉬운 공군/대한민국 공군의 발자취/공군 부대 마크에 숨겨진 비밀!"
+	},
+	"어떻게 하면 공군 조종사가 될 수 있나요?": {
+		"question": "어떻게 하면 공군 조종사가 될 수 있나요?",
+		"answer": "알기쉬운 공군 10번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 146,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q10.pdf",
+		"image": "",
+		"query": [
+			"어떻게 하면 공군 조종사가 될 수 있나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/어떻게 하면 공군 조종사가 될 수 있나요?"
+	},
+	"안경을 쓴 사람도 조종사가될 수 있나요?": {
+		"question": "안경을 쓴 사람도 조종사가될 수 있나요?",
+		"answer": "알기쉬운 공군 11번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 147,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q11.pdf",
+		"image": "",
+		"query": [
+			"안경을 쓴 사람도 조종사가될 수 있나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/안경을 쓴 사람도 조종사가될 수 있나요?"
+	},
+	"공군 조종사가 되려면 어떤 비행교육을 받아야 하나요?": {
+		"question": "공군 조종사가 되려면 어떤 비행교육을 받아야 하나요?",
+		"answer": "알기쉬운 공군 12번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 148,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q12.pdf",
+		"image": "",
+		"query": [
+			"공군 조종사가 되려면 어떤 비행교육을 받아야 하나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/공군 조종사가 되려면 어떤 비행교육을 받아야 하나요?"
+	},
+	"공군 조종사도 항공기 조종면허증이 있나요?": {
+		"question": "공군 조종사도 항공기 조종면허증이 있나요?",
+		"answer": "알기쉬운 공군 13번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 149,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q13.pdf",
+		"image": "",
+		"query": [
+			"공군 조종사도 항공기 조종면허증이 있나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/공군 조종사도 항공기 조종면허증이 있나요?"
+	},
+	"조종사들은 왜 비행환경적응훈련을 받아야 하나요?": {
+		"question": "조종사들은 왜 비행환경적응훈련을 받아야 하나요?",
+		"answer": "알기쉬운 공군 14번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 150,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q14.pdf",
+		"image": "",
+		"query": [
+			"조종사들은 왜 비행환경적응훈련을 받아야 하나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/조종사들은 왜 비행환경적응훈련을 받아야 하나요?"
+	},
+	"빨간 마후라는 대한민국 공군 조종사만 매나요?": {
+		"question": "빨간 마후라는 대한민국 공군 조종사만 매나요?",
+		"answer": "알기쉬운 공군 15번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 151,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q15.pdf",
+		"image": "",
+		"query": [
+			"빨간 마후라는 대한민국 공군 조종사만 매나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/빨간 마후라는 대한민국 공군 조종사만 매나요?"
+	},
+	"탑건과 최우수 조종사는 어떻게 다른가요?": {
+		"question": "탑건과 최우수 조종사는 어떻게 다른가요?",
+		"answer": "알기쉬운 공군 16번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 152,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q16.pdf",
+		"image": "",
+		"query": [
+			"탑건과 최우수 조종사는 어떻게 다른가요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/탑건과 최우수 조종사는 어떻게 다른가요?"
+	},
+	"공군 조종사는 왜 선글라스를 끼나요?": {
+		"question": "공군 조종사는 왜 선글라스를 끼나요?",
+		"answer": "알기쉬운 공군 17번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 153,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q17.pdf",
+		"image": "",
+		"query": [
+			"공군 조종사는 왜 선글라스를 끼나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/공군 조종사는 왜 선글라스를 끼나요?"
+	},
+	"조종사가 비행을 못하는 날도 있나요?": {
+		"question": "조종사가 비행을 못하는 날도 있나요?",
+		"answer": "알기쉬운 공군 18번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 154,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q18.pdf",
+		"image": "",
+		"query": [
+			"조종사가 비행을 못하는 날도 있나요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/조종사가 비행을 못하는 날도 있나요?"
+	},
+	"공군 조종사들에게도 애칭이 있다고요?": {
+		"question": "공군 조종사들에게도 애칭이 있다고요?",
+		"answer": "알기쉬운 공군 19번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 155,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q19.pdf",
+		"image": "",
+		"query": [
+			"공군 조종사들에게도 애칭이 있다고요?"
+		],
+		"classification": "알기쉬운 공군/조종사 이야기/공군 조종사들에게도 애칭이 있다고요?"
+	},
+	"항공기 이름에 감춰진 비밀은?": {
+		"question": "항공기 이름에 감춰진 비밀은?",
+		"answer": "알기쉬운 공군 20번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 156,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q20.pdf",
+		"image": "",
+		"query": [
+			"항공기 이름에 감춰진 비밀은?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/항공기 이름에 감춰진 비밀은?"
+	},
+	"팬텀, 톰캣..특색 있는 항공기 애칭들": {
+		"question": "팬텀, 톰캣..특색 있는 항공기 애칭들",
+		"answer": "알기쉬운 공군 21번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 157,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q21.pdf",
+		"image": "",
+		"query": [
+			"팬텀, 톰캣..특색 있는 항공기 애칭들"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/팬텀, 톰캣..특색 있는 항공기 애칭들"
+	},
+	"전투기가 얼마나 높이 올라갈 수 있나요?": {
+		"question": "전투기가 얼마나 높이 올라갈 수 있나요?",
+		"answer": "알기쉬운 공군 22번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 158,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q22.pdf",
+		"image": "",
+		"query": [
+			"전투기가 얼마나 높이 올라갈 수 있나요?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/전투기가 얼마나 높이 올라갈 수 있나요?"
+	},
+	"전투기에도 백미러가 있나요?": {
+		"question": "전투기에도 백미러가 있나요?",
+		"answer": "알기쉬운 공군 23번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 159,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q23.pdf",
+		"image": "",
+		"query": [
+			"전투기에도 백미러가 있나요?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/전투기에도 백미러가 있나요?"
+	},
+	"전투기가 비행 중에 번개를 맞는다면?": {
+		"question": "전투기가 비행 중에 번개를 맞는다면?",
+		"answer": "알기쉬운 공군 24번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 160,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q24.pdf",
+		"image": "",
+		"query": [
+			"전투기가 비행 중에 번개를 맞는다면?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/전투기가 비행 중에 번개를 맞는다면?"
+	},
+	"음속을 돌파할 때, 왜 \"쾅\" 소리가 들리나요?": {
+		"question": "음속을 돌파할 때, 왜 \"쾅\" 소리가 들리나요?",
+		"answer": "알기쉬운 공군 25번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 161,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q25.pdf",
+		"image": "",
+		"query": [
+			"음속을 돌파할 때, 왜 \"쾅\" 소리가 들리나요?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/음속을 돌파할 때, 왜 \"쾅\" 소리가 들리나요?"
+	},
+	"특명! 항공기 소음을 줄여라!": {
+		"question": "특명! 항공기 소음을 줄여라!",
+		"answer": "알기쉬운 공군 26번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 162,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q26.pdf",
+		"image": "",
+		"query": [
+			"특명! 항공기 소음을 줄여라!"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/특명! 항공기 소음을 줄여라!"
+	},
+	"항공기 간의 충돌을 미리 경고해 주는 장치가 있다던데...": {
+		"question": "항공기 간의 충돌을 미리 경고해 주는 장치가 있다던데...",
+		"answer": "알기쉬운 공군 27번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 163,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q27.pdf",
+		"image": "",
+		"query": [
+			"항공기 간의 충돌을 미리 경고해 주는 장치가 있다던데..."
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/항공기 간의 충돌을 미리 경고해 주는 장치가 있다던데..."
+	},
+	"항공기 바퀴에 얽힌 비밀!": {
+		"question": "항공기 바퀴에 얽힌 비밀!",
+		"answer": "알기쉬운 공군 28번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 164,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q28.pdf",
+		"image": "",
+		"query": [
+			"항공기 바퀴에 얽힌 비밀!"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/항공기 바퀴에 얽힌 비밀!"
+	},
+	"블랙박스는 정말 검은색인가요?": {
+		"question": "블랙박스는 정말 검은색인가요?",
+		"answer": "알기쉬운 공군 29번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 165,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q29.pdf",
+		"image": "",
+		"query": [
+			"블랙박스는 정말 검은색인가요?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/블랙박스는 정말 검은색인가요?"
+	},
+	"전투기는 후진을 못한다?": {
+		"question": "전투기는 후진을 못한다?",
+		"answer": "알기쉬운 공군 30번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 166,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q30.pdf",
+		"image": "",
+		"query": [
+			"전투기는 후진을 못한다?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/전투기는 후진을 못한다?"
+	},
+	"항공기도 엑스레이(X-ray)를 찍는다?": {
+		"question": "항공기도 엑스레이(X-ray)를 찍는다?",
+		"answer": "알기쉬운 공군 31번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 167,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q31.pdf",
+		"image": "",
+		"query": [
+			"항공기도 엑스레이(X-ray)를 찍는다?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/항공기도 엑스레이(X-ray)를 찍는다?"
+	},
+	"전투기는 어떤 무기를 사용하나요?": {
+		"question": "전투기는 어떤 무기를 사용하나요?",
+		"answer": "알기쉬운 공군 32번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 168,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q32.pdf",
+		"image": "",
+		"query": [
+			"전투기는 어떤 무기를 사용하나요?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/전투기는 어떤 무기를 사용하나요?"
+	},
+	"우리 영공을 침범하는 적 항공기가 가장 무서워하는 것은?": {
+		"question": "우리 영공을 침범하는 적 항공기가 가장 무서워하는 것은?",
+		"answer": "알기쉬운 공군 33번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 169,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q33.pdf",
+		"image": "",
+		"query": [
+			"우리 영공을 침범하는 적 항공기가 가장 무서워하는 것은?"
+		],
+		"classification": "알기쉬운 공군/항공기와 미사일/우리 영공을 침범하는 적 항공기가 가장 무서워하는 것은?"
+	},
+	"하늘을 수놓다! 공군 특수비행팀 블랙이글스": {
+		"question": "하늘을 수놓다! 공군 특수비행팀 블랙이글스",
+		"answer": "알기쉬운 공군 34번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 170,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q34.pdf",
+		"image": "",
+		"query": [
+			"하늘을 수놓다! 공군 특수비행팀 블랙이글스"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/하늘을 수놓다! 공군 특수비행팀 블랙이글스"
+	},
+	"적진에 떨어진 조종사를 구출하라!": {
+		"question": "적진에 떨어진 조종사를 구출하라!",
+		"answer": "알기쉬운 공군 35번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 171,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q35.pdf",
+		"image": "",
+		"query": [
+			"하늘을 수놓다! 공군 특수비행팀 블랙이글"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/적진에 떨어진 조종사를 구출하라!"
+	},
+	"폼 나는 최강 특수부대, 공정통제사": {
+		"question": "폼 나는 최강 특수부대, 공정통제사",
+		"answer": "알기쉬운 공군 36번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 172,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q36.pdf",
+		"image": "",
+		"query": [
+			"폼 나는 최강 특수부대, 공정통제사"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/폼 나는 최강 특수부대, 공정통제사"
+	},
+	"정확한 기상예보로 승리를 이끄는 공군기상단!": {
+		"question": "정확한 기상예보로 승리를 이끄는 공군기상단!",
+		"answer": "알기쉬운 공군 37번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 173,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q37.pdf",
+		"image": "",
+		"query": [
+			"정확한 기상예보로 승리를 이끄는 공군기상단!"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/정확한 기상예보로 승리를 이끄는 공군기상단!"
+	},
+	"공군에 배트맨이 있다?": {
+		"question": "공군에 배트맨이 있다?",
+		"answer": "알기쉬운 공군 38번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 174,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q38.pdf",
+		"image": "",
+		"query": [
+			"공군에 배트맨이 있다?"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/공군에 배트맨이 있다?"
+	},
+	"항공기 테러, 꿈도 꾸지 마!": {
+		"question": "항공기 테러, 꿈도 꾸지 마!",
+		"answer": "알기쉬운 공군 39번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 175,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q39.pdf",
+		"image": "",
+		"query": [
+			"항공기 테러, 꿈도 꾸지 마!"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/항공기 테러, 꿈도 꾸지 마!"
+	},
+	"폭발물과의 전쟁, 폭발물 처리반": {
+		"question": "폭발물과의 전쟁, 폭발물 처리반",
+		"answer": "알기쉬운 공군 40번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 176,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q40.pdf",
+		"image": "",
+		"query": [
+			"폭발물과의 전쟁, 폭발물 처리반"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/폭발물과의 전쟁, 폭발물 처리반"
+	},
+	"목숨을 건 비행, 목숨을 걸고 날다! 시험비행 조종사": {
+		"question": "목숨을 건 비행, 목숨을 걸고 날다! 시험비행 조종사",
+		"answer": "알기쉬운 공군 41번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 177,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q41.pdf",
+		"image": "",
+		"query": [
+			"목숨을 건 비행, 목숨을 걸고 날다! 시험비행 조종사"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/목숨을 건 비행, 목숨을 걸고 날다! 시험비행 조종사"
+	},
+	"우린 무엇이든 투하한다!": {
+		"question": "우린 무엇이든 투하한다!",
+		"answer": "알기쉬운 공군 42번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 178,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q42.pdf",
+		"image": "",
+		"query": [
+			"우린 무엇이든 투하한다!"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/우린 무엇이든 투하한다!"
+	},
+	"적의 공격으로 활주로가 파괴되면 어떻게 하나요?": {
+		"question": "적의 공격으로 활주로가 파괴되면 어떻게 하나요?",
+		"answer": "알기쉬운 공군 43번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 179,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q43.pdf",
+		"image": "",
+		"query": [
+			"적의 공격으로 활주로가 파괴되면 어떻게 하나요?"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/적의 공격으로 활주로가 파괴되면 어떻게 하나요?"
+	},
+	"공군에 가면 병사들도 비행기를 타나요?": {
+		"question": "공군에 가면 병사들도 비행기를 타나요?",
+		"answer": "알기쉬운 공군 44번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 180,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q44.pdf",
+		"image": "",
+		"query": [
+			"공군에 가면 병사들도 비행기를 타나요?"
+		],
+		"classification": "알기쉬운 공군/특별한 공군인들/공군에 가면 병사들도 비행기를 타나요?"
+	},
+	"공군 병사가 되려면?": {
+		"question": "공군 병사가 되려면?",
+		"answer": "알기쉬운 공군 45번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 181,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q45.pdf",
+		"image": "",
+		"query": [
+			"공군 병사가 되려면?"
+		],
+		"classification": "알기쉬운 공군/공군인으로 거듭나기/공군 병사가 되려면?"
+	},
+	"공군에 가도 국가자격증을 딸 수 있다면서요?": {
+		"question": "공군에 가도 국가자격증을 딸 수 있다면서요?",
+		"answer": "알기쉬운 공군 46번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 182,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q46.pdf",
+		"image": "",
+		"query": [
+			"공군에 가도 국가자격증을 딸 수 있다면서요?"
+		],
+		"classification": "알기쉬운 공군/공군인으로 거듭나기/공군에 가도 국가자격증을 딸 수 있다면서요?"
+	},
+	"공군사관생도들의 특권이자 로망! 망토": {
+		"question": "공군사관생도들의 특권이자 로망! 망토",
+		"answer": "알기쉬운 공군 47번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 183,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q47.pdf",
+		"image": "",
+		"query": [
+			"공군사관생도들의 특권이자 로망! 망토"
+		],
+		"classification": "알기쉬운 공군/공군인으로 거듭나기/공군사관생도들의 특권이자 로망! 망토"
+	},
+	"나도 신세경! 공군 정비사가 되는 방법": {
+		"question": "나도 신세경! 공군 정비사가 되는 방법",
+		"answer": "알기쉬운 공군 48번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 184,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q48.pdf",
+		"image": "",
+		"query": [
+			"나도 신세경! 공군 정비사가 되는 방법"
+		],
+		"classification": "알기쉬운 공군/공군인으로 거듭나기/나도 신세경! 공군 정비사가 되는 방법"
+	},
+	"항공기술 전문 인력 양성의 요람. 공군항공과학고등학교": {
+		"question": "항공기술 전문 인력 양성의 요람. 공군항공과학고등학교",
+		"answer": "알기쉬운 공군 49번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 185,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q49.pdf",
+		"image": "",
+		"query": [
+			"항공기술 전문 인력 양성의 요람. 공군항공과학고등학교"
+		],
+		"classification": "알기쉬운 공군/공군인으로 거듭나기/항공기술 전문 인력 양성의 요람. 공군항공과학고등학교"
+	},
+	"공군은 어떤 옷을 입고 근무하나요?": {
+		"question": "공군은 어떤 옷을 입고 근무하나요?",
+		"answer": "알기쉬운 공군 50번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 186,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q50.pdf",
+		"image": "",
+		"query": [
+			"공군은 어떤 옷을 입고 근무하나요?"
+		],
+		"classification": "알기쉬운 공군/공군인으로 거듭나기/공군은 어떤 옷을 입고 근무하나요?"
+	},
+	"남녀 사관생도들 간에도 이성 교제가 가능한가요?": {
+		"question": "남녀 사관생도들 간에도 이성 교제가 가능한가요?",
+		"answer": "알기쉬운 공군 51번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 187,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q51.pdf",
+		"image": "",
+		"query": [
+			"남녀 사관생도들 간에도 이성 교제가 가능한가요?"
+		],
+		"classification": "알기쉬운 공군/공군인으로 거듭나기/남녀 사관생도들 간에도 이성 교제가 가능한가요?"
+	},
+	"Made In Korea, 더 넓은 세상을 향해 날아라!": {
+		"question": "Made In Korea, 더 넓은 세상을 향해 날아라!",
+		"answer": "알기쉬운 공군 52번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 188,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q52.pdf",
+		"image": "",
+		"query": [
+			"Made In Korea, 더 넓은 세상을 향해 날아라!"
+		],
+		"classification": "알기쉬운 공군/하늘을 넘어 우주로/Made In Korea, 더 넓은 세상을 향해 날아라!"
+	},
+	"한반도 영공 감시의 눈을 뜨다! 피스아이(Peace Eye)": {
+		"question": "한반도 영공 감시의 눈을 뜨다! 피스아이(Peace Eye)",
+		"answer": "알기쉬운 공군 53번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 189,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q53.pdf",
+		"image": "",
+		"query": [
+			"한반도 영공 감시의 눈을 뜨다! 피스아이(Peace Eye)"
+		],
+		"classification": "알기쉬운 공군/하늘을 넘어 우주로/한반도 영공 감시의 눈을 뜨다! 피스아이(Peace Eye)"
+	},
+	"스텔스기와 무인기의 비밀!": {
+		"question": "스텔스기와 무인기의 비밀!",
+		"answer": "알기쉬운 공군 54번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 190,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q54.pdf",
+		"image": "",
+		"query": [
+			"스텔스기와 무인기의 비밀!"
+		],
+		"classification": "알기쉬운 공군/하늘을 넘어 우주로/스텔스기와 무인기의 비밀!"
+	},
+	"국내 유일의 우주인 양성 전문기관, 공군항공우주의료원": {
+		"question": "국내 유일의 우주인 양성 전문기관, 공군항공우주의료원",
+		"answer": "알기쉬운 공군 55번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 191,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q55.pdf",
+		"image": "",
+		"query": [
+			"국내 유일의 우주인 양성 전문기관, 공군항공우주의료원"
+		],
+		"classification": "알기쉬운 공군/하늘을 넘어 우주로/국내 유일의 우주인 양성 전문기관, 공군항공우주의료원"
+	},
+	"하늘을 향한 도전, Space Challange": {
+		"question": "하늘을 향한 도전, Space Challange",
+		"answer": "알기쉬운 공군 56번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 192,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q56.pdf",
+		"image": "",
+		"query": [
+			"하늘을 향한 도전, Space Challange"
+		],
+		"classification": "알기쉬운 공군/하늘을 넘어 우주로/하늘을 향한 도전, Space Challange"
+	},
+	"항공산업의 현재와 미래가 한눈에, 에어쇼의 모든 것": {
+		"question": "항공산업의 현재와 미래가 한눈에, 에어쇼의 모든 것",
+		"answer": "알기쉬운 공군 57번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 193,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q57.pdf",
+		"image": "",
+		"query": [
+			"항공산업의 현재와 미래가 한눈에, 에어쇼의 모든 것"
+		],
+		"classification": "알기쉬운 공군/하늘을 넘어 우주로/항공산업의 현재와 미래가 한눈에, 에어쇼의 모든 것"
+	},
+	"하늘로! 우주로! 항공우주군으로 나아가는 공군": {
+		"question": "하늘로! 우주로! 항공우주군으로 나아가는 공군",
+		"answer": "알기쉬운 공군 58번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 194,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q58.pdf",
+		"image": "",
+		"query": [
+			"하늘로! 우주로! 항공우주군으로 나아가는 공군"
+		],
+		"classification": "알기쉬운 공군/하늘을 넘어 우주로/하늘로! 우주로! 항공우주군으로 나아가는 공군"
+	},
+	"6일 만에 끝난 전쟁이 있다?": {
+		"question": "6일 만에 끝난 전쟁이 있다?",
+		"answer": "알기쉬운 공군 59번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 195,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q59.pdf",
+		"image": "",
+		"query": [
+			"6일 만에 끝난 전쟁이 있다?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/6일 만에 끝난 전쟁이 있다?"
+	},
+	"하늘에 그리는 그림, 비행운": {
+		"question": "하늘에 그리는 그림, 비행운",
+		"answer": "알기쉬운 공군 60번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 196,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q60.pdf",
+		"image": "",
+		"query": [
+			"하늘에 그리는 그림, 비행운"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/하늘에 그리는 그림, 비행운"
+	},
+	"하늘에도 비행기가 다니는 길이 있나요?": {
+		"question": "하늘에도 비행기가 다니는 길이 있나요?",
+		"answer": "알기쉬운 공군 61번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 197,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q61.pdf",
+		"image": "",
+		"query": [
+			"하늘에도 비행기가 다니는 길이 있나요?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/하늘에도 비행기가 다니는 길이 있나요?"
+	},
+	"조종복에 숨겨진 비밀!": {
+		"question": "조종복에 숨겨진 비밀!",
+		"answer": "알기쉬운 공군 62번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 198,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q62.pdf",
+		"image": "",
+		"query": [
+			"조종복에 숨겨진 비밀!"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/조종복에 숨겨진 비밀!"
+	},
+	"G-force? G-suit? 이게 뭔가요?": {
+		"question": "G-force? G-suit? 이게 뭔가요?",
+		"answer": "알기쉬운 공군 63번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 199,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q63.pdf",
+		"image": "",
+		"query": [
+			"G-force? G-suit? 이게 뭔가요?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/G-force? G-suit? 이게 뭔가요?"
+	},
+	"비상탈출(Ejection)의 원리": {
+		"question": "비상탈출(Ejection)의 원리",
+		"answer": "알기쉬운 공군 64번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 200,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q64.pdf",
+		"image": "",
+		"query": [
+			"비상탈출(Ejection)의 원리"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/비상탈출(Ejection)의 원리"
+	},
+	"북극도 아닌데 웬 이글루?": {
+		"question": "북극도 아닌데 웬 이글루?",
+		"answer": "알기쉬운 공군 65번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 201,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q65.pdf",
+		"image": "",
+		"query": [
+			"북극도 아닌데 웬 이글루?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/북극도 아닌데 웬 이글루?"
+	},
+	"위기일발! 전투기가 활주로 끝까지 달린다면?": {
+		"question": "위기일발! 전투기가 활주로 끝까지 달린다면?",
+		"answer": "알기쉬운 공군 66번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 202,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q66.pdf",
+		"image": "",
+		"query": [
+			"위기일발! 전투기가 활주로 끝까지 달린다면?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/위기일발! 전투기가 활주로 끝까지 달린다면?"
+	},
+	"전투기가 개싸움(Dogfight)을?": {
+		"question": "전투기가 개싸움(Dogfight)을?",
+		"answer": "알기쉬운 공군 67번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 203,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q67.pdf",
+		"image": "",
+		"query": [
+			"전투기가 개싸움(Dogfight)을?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/전투기가 개싸움(Dogfight)을?"
+	},
+	"비행 중 화장실은 어떻게 가나요?": {
+		"question": "비행 중 화장실은 어떻게 가나요?",
+		"answer": "알기쉬운 공군 68번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 204,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q68.pdf",
+		"image": "",
+		"query": [
+			"비행 중 화장실은 어떻게 가나요?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/비행 중 화장실은 어떻게 가나요?"
+	},
+	"해발 1,400m가 넘는 산꼭대기에도 공군부대가 있다?": {
+		"question": "해발 1,400m가 넘는 산꼭대기에도 공군부대가 있다?",
+		"answer": "알기쉬운 공군 69번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 205,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q69.pdf",
+		"image": "",
+		"query": [
+			"해발 1,400m가 넘는 산꼭대기에도 공군부대가 있다?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/해발 1,400m가 넘는 산꼭대기에도 공군부대가 있다?"
+	},
+	"한국 공군을 소재로 한 영화는 어떤 것들이 있나요?": {
+		"question": "한국 공군을 소재로 한 영화는 어떤 것들이 있나요?",
+		"answer": "알기쉬운 공군 70번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 206,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q70.pdf",
+		"image": "",
+		"query": [
+			"한국 공군을 소재로 한 영화는 어떤 것들이 있나요?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/한국 공군을 소재로 한 영화는 어떤 것들이 있나요?"
+	},
+	"일반인도 전투기를 탈 수 있는 길이 있나요?": {
+		"question": "일반인도 전투기를 탈 수 있는 길이 있나요?",
+		"answer": "알기쉬운 공군 71번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 207,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q71pdf",
+		"image": "",
+		"query": [
+			"일반인도 전투기를 탈 수 있는 길이 있나요?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/일반인도 전투기를 탈 수 있는 길이 있나요?"
+	},
+	"공군 소식은 어떻게 하면 빠르고 정확하게 알 수 있나요?": {
+		"question": "공군 소식은 어떻게 하면 빠르고 정확하게 알 수 있나요?",
+		"answer": "알기쉬운 공군 72번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 208,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q72pdf",
+		"image": "",
+		"query": [
+			"공군 소식은 어떻게 하면 빠르고 정확하게 알 수 있나요?"
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/공군 소식은 어떻게 하면 빠르고 정확하게 알 수 있나요?"
+	},
+	"공군부대 견학 신청 방법을 알려주세요.": {
+		"question": "공군부대 견학 신청 방법을 알려주세요.",
+		"answer": "알기쉬운 공군 73번 항목에 탑재되어 있습니다. 자세한 이야기는 아래의 링크를 확인해 보세요.",
+		"index": 209,
+		"page": "main",
+		"location": "자료실/홍보자료실/알기쉬운 공군",
+		"link": "https://rokaf.airforce.mil.kr/sites/airforce/images/pdf/Q73pdf",
+		"image": "",
+		"query": [
+			"공군부대 견학 신청 방법을 알려주세요."
+		],
+		"classification": "알기쉬운 공군/톡톡 튀는 공군 상식/공군부대 견학 신청 방법을 알려주세요."
+	}
+}

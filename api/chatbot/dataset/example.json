@@ -1,0 +1,158 @@
+[
+  {
+    "input":  "선발일정",
+    "output": [
+      {"type": "simpleText", "text": "선발일정에 대해 안내해드리겠습니다.\n안내를 원하는 내용을 아래에서 선택해주세요!"},
+      {"type": "buttons", "items":[
+        {"label": "장교 과정", "action": "message", "messageText": "장교 과정 선발일정"},
+        {"label": "준사관 과정", "action": "message", "messageText": "준사관 과정 선발일정"},
+        {"label": "부사관 과정", "action": "message", "messageText": "부사관 과정 선발일정"},
+        {"label": "군무원 과정", "action": "message", "messageText": "군무원 과정 선발일정"}]
+      }
+    ],
+    "query": ["선발일정"]
+  },
+  {
+    "input":  "지원자격",
+    "output": [
+      {"type": "simpleText", "text": "지원자격에 대해 안내해드리겠습니다.\n안내를 원하는 내용을 아래에서 선택해주세요!"},
+      {"type": "buttons", "items":[
+        {"label": "장교 과정", "action": "message", "messageText": "장교 과정 지원자격"},
+        {"label": "준사관 과정", "action": "message", "messageText": "준사관 과정 지원자격"},
+        {"label": "부사관 과정", "action": "message", "messageText": "부사관 과정 지원자격"},
+        {"label": "군무원 과정", "action": "message", "messageText": "군무원 과정 지원자격"}]
+      }
+    ],
+    "query": ["지원자격", "지원", "자격"]
+  },
+  {
+    "input":  "평가요소",
+    "output": [
+      {"type": "simpleText", "text": "평가요소에 대해 안내해드리겠습니다.\n안내를 원하는 내용을 아래에서 선택해주세요!"},
+      {"type": "buttons", "items":[
+        {"label": "필기 평가", "action": "message", "messageText": "필기 평가 안내"},
+        {"label": "체력 검정", "action": "message", "messageText": "체력 검정 안내"},
+        {"label": "면접 평가", "action": "message", "messageText": "면접 평가 안내"},
+        {"label": "가산점", "action": "message", "messageText": "가산점 안내"}]
+      }
+    ],
+    "query": ["평가요소"]
+  },
+  {
+    "input":  "FAQ",
+    "output": [
+      {"type": "simpleText", "text": "공군 인재선발 관련 자주묻는 질문에 대해 안내해드리겠습니다.\n아래 버튼을 눌러 인재선발 관련 자주묻는 질문에 대해 확인하세요!",
+        "items": [
+          {"type": "buttons", "items": [{"label": "Q&A 바로가기", "action": "webLink", "webLinkUrl": "http://www.af.mil/user/indexMain.action?siteId=hq"}]}
+        ]
+      }
+    ],
+    "query": ["FAQ"]
+  },
+  {
+    "input":  "장교 과정 선발일정",
+    "output": [
+      {"type": "simpleText", "text": "장교 과정 선발일정에 대해 안내해드리겠습니다.\n안내를 원하는 내용을 아래에서 선택해주세요!",
+        "items": [
+          {"type": "buttons", "items": [{"label": "선발일정 다른 문의", "action": "message", "messageText": "선발일정"}]}
+        ]
+      },
+      {"type": "buttons", "items":[
+        {"label": "학사사관후보생", "action": "message", "messageText": "학사사관후보생 선발일정"},
+        {"label": "학군사관후보생", "action": "message", "messageText": "학군사관후보생 선발일정"},
+        {"label": "예비장교후보생", "action": "message", "messageText": "예비장교후보생 선발일정"},
+        {"label": "조종장학생", "action": "message", "messageText": "조종장학생 선발일정"}]
+      }
+    ],
+    "query": ["장교 과정 선발일정"]
+  },
+  {
+    "input":  "학사사관후보생 선발일정",
+    "output": [
+      {"type": "simpleText", "text": "학사사관후보생 선발일정에 대해 안내해드리겠습니다.\n선발 관련 문의는 아래 연락처로 연락해주세요.\n010-1234-5678\n카드를 옆으로 넘기며 자세히 확인해 볼 수 있습니다.",
+        "items": [
+          {"type": "buttons", "items": [
+            {"label": "모집 공고 확인하기", "action": "webLink", "webLinkUrl": "http://www.af.mil/user/indexMain.action?siteId=hq"},
+            {"label": "지원서 작성", "action": "webLink", "webLinkUrl": "http://www.af.mil/user/indexMain.action?siteId=hq"}
+          ]}
+        ]
+      },
+      {"type": "carousel",
+        "items": [
+          {"type": "simpleText", "text": "지원서 접수 및 필기 시험"},
+          {"type": "simpleText", "text": "2차 전형"},
+          {"type": "simpleText", "text": "최종 합격자 발표"}
+        ]
+      },
+      {"type": "buttons", "items":[
+        {"label": "장교 과정 다른 문의", "action": "message", "messageText": "장교 과정 선발일정"}
+       ]
+      }
+    ],
+    "query": ["학사사관후보생 선발일정"]
+  },
+  {
+    "input": "알기쉬운 공군",
+    "output": [
+      {
+        "type": "simpleText",
+        "text": "공군에 대한 다양한 이야기는 공군 홈페이지 \"알기쉬운공군\"에서 확인하실 수 있습니다.\n 자세한 내용은 아래 링크와 버튼을 클릭해주세요!",
+        "items": [
+          {
+            "type": "buttons",
+            "items": [
+              {
+                "label": "바로가기",
+                "action": "webLink",
+                "webLinkUrl": "https://rokaf.airforce.mil.kr/airforce/454/subview.do"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "buttons",
+        "items": [
+          {
+            "label": "대한민국 공군의 발자취",
+            "action": "message",
+            "messageText": "대한민국 공군의 발자취"
+          },
+          {
+            "label": "조종사 이야기",
+            "action": "message",
+            "messageText": "조종사 이야기"
+          },
+          {
+            "label": "항공기와 미사일",
+            "action": "message",
+            "messageText": "항공기와 미사일"
+          },
+          {
+            "label": "특별한 공군인들",
+            "action": "message",
+            "messageText": "특별한 공군인들"
+          },
+          {
+            "label": "공군인으로 거듭나기",
+            "action": "message",
+            "messageText": "공군인으로 거듭나기"
+          },
+          {
+            "label": "하늘을 넘어 우주로",
+            "action": "message",
+            "messageText": "하늘을 넘어 우주로"
+          },
+          {
+            "label": "톡톡 튀는 공군 상식",
+            "action": "message",
+            "messageText": "톡톡 튀는 공군 상식"
+          }
+        ]
+      }
+    ],
+    "query": [
+      "알기쉬운 공군"
+    ]
+  }
+]
