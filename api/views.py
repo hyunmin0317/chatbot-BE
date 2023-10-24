@@ -3,26 +3,9 @@ from rest_framework import status
 from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.views import APIView
-
 from api.apps import ApiConfig
-from api.chatbot.inference import koelectra_chatbot
 from api.models import Answer, Result
 from api.serializers import AnswerSerializer
-
-
-@api_view(['POST'])
-def search_answer(request):
-    threshold = 0.5
-    uid, question = request.data['uid'], request.data['question']
-    answer, pred = koelectra_chatbot(uid, question, ApiConfig.model, ApiConfig.tokenizer, ApiConfig.device, dataset=Answer.objects.all())
-    result, stat = False, status.HTTP_204_NO_CONTENT
-    if pred > threshold:
-        answer.count += 1
-        answer.save()
-        result, stat = True, status.HTTP_200_OK
-    Result.objects.create(uid=uid, question=question, answer=answer, pred=pred, result=result)
-    serializer = AnswerSerializer(answer)
-    return Response(serializer.data, status=stat)
 
 
 @api_view(['POST'])
