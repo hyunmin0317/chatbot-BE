@@ -127,4 +127,8 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 LOGIN_URL = '/admin/login'
 
 # CORS 허용 도메인
-CORS_ORIGIN_WHITELIST = ['*']
+CORS_ORIGIN_WHITELIST = [
+    'http://127.0.0.1', 'http://127.0.0.1:8080',
+    'http://localhost', 'http://localhost:8080', 'http://localhost:63342', 'http://localhost:63343',
+    'http://48.2.1.92:20009', 'http://12.42.34.55:8080'
+]
