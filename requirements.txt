@@ -17,15 +17,12 @@ pytz==2020.1
 regex==2020.6.8
 requests==2.24.0
 sacremoses==0.0.43
-sentencepiece==0.1.91
 setuptools==47.1.0
 six==1.15.0
 sqlparse==0.3.1
-tokenizers==0.8.1rc1
-torch==1.7.1
 tqdm==4.47.0
-transformers==3.0.2
 typing-extensions==3.7.4.2
 urllib3==1.25.9
 gunicorn==20.0.4
 drf_yasg==1.17.0
+psycopg2-binary==2.9.3
