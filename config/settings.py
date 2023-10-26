@@ -20,13 +20,12 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'sndknt@+o8+hufrrwc8$1ulva^_lx^ol5cfectm0_shnf_4zhk'
+SECRET_KEY = os.environ.get('SECRET_KEY', '(o)$^apjv$^kml25etux0-0l0e!c)uqdr1x9__l(c_@oygnvai')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = int(os.environ.get('DEBUG', 1))
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '48.2.1.92', '12.42.34.55']
-
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -39,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'corsheaders',
-    'drf_yasg',
     'api',
 ]
 
@@ -80,11 +78,14 @@ WSGI_APPLICATION = 'config.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': os.environ.get("SQL_ENGINE", 'django.db.backends.sqlite3'),
+        'NAME': os.environ.get('SQL_DATABASE', os.path.join(BASE_DIR, 'db.sqlite3')),
+        'USER': os.environ.get('SQL_USER', 'user'),
+        'PASSWORD': os.environ.get('SQL_PASSWORD', 'password'),
+        'HOST': os.environ.get('SQL_HOST', 'localhost'),
+        'PORT': os.environ.get("SQL_PORT", '5432'),
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
@@ -116,22 +117,13 @@ USE_I18N = True
 
 USE_L10N = True
 
-USE_TZ = True
-
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
 
 STATIC_URL = '/static/'
-STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, 'static')
-]
+STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 LOGIN_URL = '/admin/login'
 
-# CORS 허용 도메인
-CORS_ORIGIN_WHITELIST = [
-    'http://127.0.0.1', 'http://127.0.0.1:8080',
-    'http://localhost', 'http://localhost:8080', 'http://localhost:63342', 'http://localhost:63343',
-    'http://48.2.1.92:20009', 'http://12.42.34.55:8080'
-]
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'

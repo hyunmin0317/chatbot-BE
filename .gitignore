@@ -38,3 +38,4 @@ venv.bak/
 log/
 .DS_Store
 *.out
+pytorch_model.bin
