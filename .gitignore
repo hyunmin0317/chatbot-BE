@@ -35,6 +35,7 @@ env.bak/
 venv.bak/
 
 # AI Model
+log/
 .DS_Store
 *.out
 pytorch_model.bin
