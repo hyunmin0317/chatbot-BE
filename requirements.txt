@@ -20,6 +20,7 @@ sacremoses==0.0.43
 setuptools==47.1.0
 six==1.15.0
 sqlparse==0.3.1
+torch==1.8.0
 tqdm==4.47.0
 typing-extensions==3.7.4.2
 urllib3==1.25.9
