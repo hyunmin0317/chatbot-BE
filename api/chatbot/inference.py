@@ -57,8 +57,7 @@ def koelectra_chatbot(uid, query, model, tokenizer, device, dataset=None):
             idx_key += 1
     batch = tokenizer.batch_encode_plus(
         example,
-        max_length=64,
-        pad_to_max_length=True,
+        padding=True,
         add_special_tokens=True,
         truncation=True
     )
